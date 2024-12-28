@@ -8,15 +8,10 @@ The homepage provides an overview of the agency's mission, services, and commitm
 # Features :
 
 * ***Home Page*** :  Introduction to the private investigation organization, showcasing the company’s mission, and a call-to-action for users to learn more or get in touch.
-* 
 * ***Services Page*** :  A detailed description of the investigative services offered, including background checks, surveillance, corporate investigations, and more.
-* 
 * ***Team Page*** :  Introduction to the team members, their experience, and qualifications.
-* 
 * ***Why Choose Us Page*** :  Highlights the organization’s reliability, trustworthiness, and unique qualities that set them apart from competitors.
-* 
 * ***Contact Page*** :  A contact form for potential clients to inquire about services or request a consultation, along with phone, email, and office location details.
-* 
 * ***Professional Design*** :  Clean and modern layout, optimized for both desktop and mobile viewing.
 
 # Design and Layout Overview:
