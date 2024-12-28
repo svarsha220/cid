@@ -6,6 +6,22 @@ This project involved designing and developing the homepage for a private invest
 The homepage provides an overview of the agency's mission, services, and commitment to uncovering the truth, supported by a sleek, dark-themed design that resonates with the investigative domain. This project showcases attention to detail, effective content presentation, and the use of visual elements to build trust with potential clients.
 
 # Features :
+
+* <h4>Home Page</h4>: 
+Introduction to the private investigation organization, showcasing the company’s mission, and a call-to-action for users to learn more or get in touch.
+* <h4>Services Page</h4>: 
+A detailed description of the investigative services offered, including background checks, surveillance, corporate investigations, and more.
+* <h4>Team Page</h4>: 
+Introduction to the team members, their experience, and qualifications.
+* <h4>Why Choose Us Page</h4>: 
+Highlights the organization’s reliability, trustworthiness, and unique qualities that set them apart from competitors.
+* <h4>Contact Page</h4>:
+A contact form for potential clients to inquire about services or request a consultation, along with phone, email, and office location details.
+* <h4>Professional Design</h4>: 
+Clean and modern layout, optimized for both desktop and mobile viewing.
+
+# Design and Layout Overview:
+
 * Professional Layout
 Clean and well-structured design for easy navigation and readability.
 Properly divided sections: Title, Tagline, About Us,Services ,Team , Contact info  and Visual Content.
