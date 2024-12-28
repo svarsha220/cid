@@ -20,9 +20,12 @@ Proper alignment of the image with the content for a visually appealing layout.
 
 # Technologies Used : 
 
-* <h5>HTML</h5> : For structuring the content and layout of the website.
-* <h5>CSS</h5> : For styling and designing the visual appearance of the website.
-* <h5>Neocities</h5> : For hosting the website online.
+* <h5>HTML</h5>
+For structuring the content and layout of the website.
+* <h5>CSS</h5> 
+For styling and designing the visual appearance of the website.
+* <h5>Neocities</h5> 
+For hosting the website online.
   
 # Project Hosting Details :
 This website has been created based on the specific needs and requirements of the private investigation organization. It is hosted on Neocities, providing a professional and accessible online presence to showcase the organization’s services, team, and contact information.
