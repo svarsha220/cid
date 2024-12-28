@@ -1,6 +1,6 @@
-# cid 
+# cid : Investigation-Org-Website
 # About:
-Private Investigation Agency Website
+<h4>Private Investigation Agency Website</h4>
 This project involved designing and developing the homepage for a private investigation organization, "Central-Investigation-Of-Detectives (CID)," based on their requirements. The website was crafted using HTML and CSS to create a visually appealing and professional interface that aligns with the organization's theme of trust, confidentiality, and precision.
 
 The homepage provides an overview of the agency's mission, services, and commitment to uncovering the truth, supported by a sleek, dark-themed design that resonates with the investigative domain. This project showcases attention to detail, effective content presentation, and the use of visual elements to build trust with potential clients.
@@ -20,9 +20,9 @@ Proper alignment of the image with the content for a visually appealing layout.
 
 # Technologies Used : 
 
-* HTML: For structuring the content and layout of the website.
-* CSS: For styling and designing the visual appearance of the website.
-* Neocities: For hosting the website online.
+* <h5>HTML</h5>: For structuring the content and layout of the website.
+* <h5>CSS</h5>: For styling and designing the visual appearance of the website.
+* <h5>Neocities</h5>: For hosting the website online.
   
 # Project Hosting Details :
 This website has been created based on the specific needs and requirements of the private investigation organization. It is hosted on Neocities, providing a professional and accessible online presence to showcase the organization’s services, team, and contact information.
