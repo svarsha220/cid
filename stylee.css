@@ -1,0 +1,50 @@
+p{
+    
+    font-size: x-large;
+    font-style: oblique;
+    display: block;
+}
+.size{
+    size: 50cm;
+    width: 7;
+    height: 2cm;
+}
+h3{
+    font-style: italic;
+}
+h2{
+    color: rgb(221, 71, 26);
+}
+.font{
+    font-size: large;
+}
+body{
+    font-size: large;
+    border-color: black;
+    border-width: 14px;
+    background-image: url(patten.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-style: groove;
+    background-attachment: fixed;
+
+}
+img{
+    max-width: 500px;
+    height: auto;
+    border-color: black;
+    border-width: 10px;
+    border-style: groove;
+    
+}
+div{
+    font-size: medium;
+    background-color: rgb(141, 140, 140);
+}
+.add{
+    background-color: rgba(125, 143, 144, 0.768);
+}
+h4{
+    font-size: larger;
+}
